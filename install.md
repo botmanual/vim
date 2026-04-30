@@ -32,4 +32,3 @@ syntax on		" Enable syntax highlighting
 set number		" Show line numbers
 set hlsearch		" Highlight search results (use :nohlsearch to clear)
 ```
-j
