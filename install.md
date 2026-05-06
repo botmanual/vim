@@ -4,6 +4,7 @@ For windows
 winget install vim.vim
 
 ```
+You can also access [site](https://www.vim.org/download.php) to install manually.
 
 For debian
 
