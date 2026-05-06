@@ -12,6 +12,11 @@ For debian
 apt-get install vim -y
 ```
 
+Check the current configuration
+```
+:echo $MYVIMRC
+```
+
 Edit the configuration file
 ```shell
 vim ~/.vimrc
