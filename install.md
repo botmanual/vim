@@ -17,6 +17,10 @@ Check the current configuration
 :echo $MYVIMRC
 ```
 
+```
+cp /usr/share/vim/vim*/vimrc_example.vim ~/.vimrc
+```
+
 Edit the configuration file
 ```shell
 vim ~/.vimrc
